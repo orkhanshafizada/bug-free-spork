@@ -1,10 +1,10 @@
-![Mini User Api](https://raw.githubusercontent.com/orkhanshafizada/Mini-User-Api/main/background.jpeg)
+![Mini User App](https://raw.githubusercontent.com/orkhanshafizada/Mini-User-App/main/background.jpeg)
 
-# Mini User Api
+# Mini User App
 
 A small, simple PHP MVC framework skeleton that encapsulates a lot of features surrounded with powerful security layers.
 
-Mini User Api is a very simple application, useful for small projects, helps to understand the PHP MVC skeleton and more.
+Mini User App is a very simple application, useful for small projects, helps to understand the PHP MVC skeleton and more.
 
 It's not a framework, nor a very basic one but it's not complicated. You can easily install, understand, and use it in any of your projects.
 
@@ -41,7 +41,7 @@ Install via [Composer](https://getcomposer.org/doc/00-intro.md)
 ## Routing <a name="routing"></a>
 
 
-Whenever you make a request to the application, it wil be directed to index.php inside root folder. So, if you make a request: http://localhost/mini-user-api/api/v1/users. This will be splitted and translated into
+Whenever you make a request to the application, it wil be directed to index.php inside root folder. So, if you make a request: http://localhost/mini-user-app/api/v1/users. This will be splitted and translated into
 
 Controller: UserController
 Action Method: index
